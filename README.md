@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **My Interactive Portfolio & Mapa**
  
- 🌱 I’m currently learning **Flutter, ThreeJS, GSAP**
+ 🌱 I’m currently learning **Machine Learning, Flutter, ThreeJS, and GSAP**
 
 💬 Ask me about **Python, C++, React... or anything on computer graphics or math!**
 
